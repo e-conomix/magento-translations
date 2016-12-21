@@ -10,6 +10,10 @@ Packages which are ready to use via composer are marked with the :package: icon.
 ## hu_HU
 - Magento 1: [https://github.com/versedi/Magento-Locales/tree/master/app/locale/hu_HU](https://github.com/versedi/Magento-Locales/tree/master/app/locale/hu_HU)
 
+## nl_NL
+- Magento 1: [https://github.com/ho-nl/magento1-Ho_nl_NL](https://github.com/ho-nl/magento1-Ho_nl_NL) :package:
+- Magento 2: [https://bitbucket.org/creaminternet/language-nl_nl.git](https://bitbucket.org/creaminternet/language-nl_nl.git) :package:
+
 ## pl_PL
 -  Magento 1: [https://github.com/SnowdogApps/MagentoEE-Translation-pl_PL](https://github.com/SnowdogApps/MagentoEE-Translation-pl_PL) :package:
 - Magento 2: [https://github.com/SnowdogApps/magento2-pl_pl](https://github.com/SnowdogApps/magento2-pl_pl) :package:
