@@ -21,3 +21,6 @@ Packages which are ready to use via composer are marked with the :package: icon.
 
 ## Contributions
 Contributions are very welcome. Please add new languages in alphabetical order. Thanks!
+
+## Idea
+Anna Völkl and Sander Mangel
