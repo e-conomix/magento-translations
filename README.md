@@ -2,7 +2,8 @@
 
 ## What's this?
 There are a lot of great Magento community translations of high quality out there. The aim of this repository is to have one common place to find them all.
-Packages which are ready to use via composer are marked with the :package: icon.t
+Packages which are ready to use via composer are marked with the :package: icon.
+
 # Translation packs
 ## de_DE
 - Magento 1: [https://github.com/riconeitzel/German_LocalePack_de_DE](https://github.com/riconeitzel/German_LocalePack_de_DE) :package:
@@ -24,6 +25,9 @@ Packages which are ready to use via composer are marked with the :package: icon.
 
 ## Contributions
 Contributions are very welcome. Please add new languages in alphabetical order. Thanks!
+
+## Thank you
+A huge thank you goes to all the maintainers and contributors of the language packs above!
 
 ## Idea
 Anna Völkl and Sander Mangel
