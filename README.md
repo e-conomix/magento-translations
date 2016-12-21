@@ -8,6 +8,10 @@ Packages which are ready to use via composer are marked with the :package: icon.
 ## de_DE
 - Magento 1: [https://github.com/riconeitzel/German_LocalePack_de_DE](https://github.com/riconeitzel/German_LocalePack_de_DE) :package:
 
+## fr_FR
+- Magento 1: [http://www.bkm.uno/services-additionnels/magento-pack-fr-1-9-1.html](http://www.bkm.uno/services-additionnels/magento-pack-fr-1-9-1.html) :package:
+- Magento 2: [https://github.com/Imaginaerum/magento2-language-fr-fr](https://github.com/Imaginaerum/magento2-language-fr-fr) :package: 
+
 ## hu_HU
 - Magento 1: [https://github.com/versedi/Magento-Locales/tree/master/app/locale/hu_HU](https://github.com/versedi/Magento-Locales/tree/master/app/locale/hu_HU)
 
