@@ -5,6 +5,9 @@ There are a lot of great Magento community translations of high quality out ther
 Packages which are ready to use via composer are marked with the :package: icon.
 
 # Translation packs
+## de_CH
+- Magento 2: [https://github.com/staempfli/magento2-language-de-ch](https://github.com/staempfli/magento2-language-de-ch) :package:
+
 ## de_DE
 - Magento 1: [https://github.com/riconeitzel/German_LocalePack_de_DE](https://github.com/riconeitzel/German_LocalePack_de_DE) :package:
 
