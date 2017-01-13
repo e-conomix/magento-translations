@@ -53,7 +53,7 @@ Packages which are ready to use via composer are marked with the :package: icon.
 - Magento 2: [https://github.com/Imaginaerum/magento2-language-fr-fr](https://github.com/Imaginaerum/magento2-language-fr-fr) :package: 
 
 ## hu_HU
-- Magento 1: [https://github.com/versedi/Magento-Locales/tree/master/app/locale/hu_HU](https://github.com/versedi/Magento-Locales/tree/master/app/locale/hu_HU) :package:
+- Magento 1: [https://github.com/versedi/Magento-Locales/tree/master/app/locale/hu_HU](https://github.com/versedi/Magento-Locales/tree/master/app/locale/hu_HU)
 
 ## it_IT
 - Magento 1: [https://github.com/MaWoScha/German_LocalePack_it_IT](https://github.com/MaWoScha/German_LocalePack_it_IT) :package:
