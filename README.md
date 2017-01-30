@@ -5,6 +5,10 @@ There are a lot of great Magento community translations of high quality out ther
 Packages which are ready to use via composer are marked with the :package: icon.
 
 # Translation packs
+
+## da_DK
+- Magento 1 & Magento 2: [https://magentodanmark.dk/](https://magentodanmark.dk/)
+
 ## de_AT
 - Magento 1: [https://github.com/MaWoScha/German_LocalePack_de_AT](https://github.com/MaWoScha/German_LocalePack_de_AT) :package:
 
