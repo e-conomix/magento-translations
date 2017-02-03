@@ -7,7 +7,8 @@ Packages which are ready to use via composer are marked with the :package: icon.
 # Translation packs
 
 ## da_DK
-- Magento 1 & Magento 2: [https://magentodanmark.dk/](https://magentodanmark.dk/)
+- Magento 1: [https://github.com/TRIC-Solutions/Magento-Translation-da_DK](https://github.com/TRIC-Solutions/Magento-Translation-da_DK)
+- Magento 2: [https://github.com/TRIC-Solutions/Magento2-Translation-da_DK](https://github.com/TRIC-Solutions/Magento2-Translation-da_DK)
 
 ## de_AT
 - Magento 1: [https://github.com/MaWoScha/German_LocalePack_de_AT](https://github.com/MaWoScha/German_LocalePack_de_AT) :package:
@@ -54,7 +55,7 @@ Packages which are ready to use via composer are marked with the :package: icon.
 
 ## fr_FR
 - Magento 1: [http://www.bkm.uno/services-additionnels/magento-pack-fr-1-9-1.html](http://www.bkm.uno/services-additionnels/magento-pack-fr-1-9-1.html) :package:
-- Magento 2: [https://github.com/Imaginaerum/magento2-language-fr-fr](https://github.com/Imaginaerum/magento2-language-fr-fr) :package: 
+- Magento 2: [https://github.com/Imaginaerum/magento2-language-fr-fr](https://github.com/Imaginaerum/magento2-language-fr-fr) :package:
 
 ## hu_HU
 - Magento 1: [https://github.com/versedi/Magento-Locales/tree/master/app/locale/hu_HU](https://github.com/versedi/Magento-Locales/tree/master/app/locale/hu_HU)
