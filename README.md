@@ -65,6 +65,9 @@ Packages which are ready to use via composer are marked with the :package: icon.
 - Magento 1: [https://bitbucket.org/bitbull/magento-translations-it](https://bitbucket.org/bitbull/magento-translations-it) :package:
 - Magento 2: [https://github.com/antoniocarboni/magento2-traduzione-italiana](https://github.com/antoniocarboni/magento2-traduzione-italiana) :package:
 
+## ja_JP
+- Magento 2:  [https://marketplace.magento.com/veriteworks-m2-japaneselocale.html](https://marketplace.magento.com/veriteworks-m2-japaneselocale.html)
+
 ## nl_NL
 - Magento 1: [https://github.com/ho-nl/magento1-Ho_nl_NL](https://github.com/ho-nl/magento1-Ho_nl_NL) :package:
 - Magento 2: [https://bitbucket.org/creaminternet/language-nl_nl.git](https://bitbucket.org/creaminternet/language-nl_nl.git) :package:
