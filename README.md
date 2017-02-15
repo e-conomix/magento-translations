@@ -4,7 +4,7 @@
 There are a lot of great Magento community translations of high quality out there. The aim of this repository is to have one common place to find them all.
 Packages which are ready to use via composer are marked with the :package: icon.
 
-# Translation packs
+# Magento Community Translation packs
 
 ## da_DK
 - Magento 1: [https://github.com/TRIC-Solutions/Magento-Translation-da_DK](https://github.com/TRIC-Solutions/Magento-Translation-da_DK)
@@ -85,6 +85,15 @@ Packages which are ready to use via composer are marked with the :package: icon.
 ## ur_UR
 - Magento 1: [https://github.com/MaWoScha/German_LocalePack_ur_UR](https://github.com/MaWoScha/German_LocalePack_ur_UR) :package:
 
+# Official Translation packs
+
+The official Magento translations can be found on Crowdin.
+- Magento 1: [https://crowdin.com/project/magento-1](https://crowdin.com/project/magento-1)
+- Magento 2: [https://crowdin.com/project/magento-2](https://crowdin.com/project/magento-2)
+
+There are also several repositories on GitHub hub which reflect the official translation: [https://github.com/Magento2Translations](https://github.com/Magento2Translations)
+
+# About this repo
 
 ## Contributions
 Contributions are very welcome. Please add new languages in alphabetical order. Thanks!
