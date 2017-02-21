@@ -79,6 +79,9 @@ Packages which are ready to use via composer are marked with the :package: icon.
 ## pt_PT
 - Magento 1: [https://github.com/MaWoScha/German_LocalePack_pt_PT](https://github.com/MaWoScha/German_LocalePack_pt_PT) :package:
 
+## sl_SI
+- Magento 1: [https://github.com/symfony-si/magento1-sl-si](https://github.com/symfony-si/magento1-sl-si) :package:
+
 ## tr_TR
 - Magento 2: [https://github.com/hidonet/magento2-language-tr_tr](https://github.com/hidonet/magento2-language-tr_tr) :package:
 
