@@ -6,6 +6,9 @@ Packages which are ready to use via composer are marked with the :package: icon.
 
 # Magento Community Translation packs
 
+## cz_CS
+- Magento 2: [https://github.com/e-conomix/magento-2-czech-language-pack](https://github.com/e-conomix/magento-2-czech-language-pack) (fork from mageplaza/magento-2-czech-language-pack without "mageplaza/module-core" module) :package:
+
 ## da_DK
 - Magento 1: [https://github.com/TRIC-Solutions/Magento-Translation-da_DK](https://github.com/TRIC-Solutions/Magento-Translation-da_DK)
 - Magento 2: [https://github.com/TRIC-Solutions/Magento2-Translation-da_DK](https://github.com/TRIC-Solutions/Magento2-Translation-da_DK)
